@@ -1,5 +1,7 @@
 # ComputerGraphicsUtility
 
+Algoritms for computer graphics.
+
 ## Description
 
 This project contains some algoritms used in other computer graphics projects avaliable in my repositories.
